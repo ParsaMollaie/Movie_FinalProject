@@ -1,0 +1,17 @@
+.card{
+    max-width: 220px;  
+    opacity: 0.95;  
+    box-shadow: 5px 10px 15px #888888;
+    
+}
+
+.name{
+    color: #222;
+    font-weight: 5rem;
+
+}
+
+.card:hover{
+    opacity: 1.1;
+}
+

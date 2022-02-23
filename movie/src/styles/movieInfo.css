@@ -1,0 +1,24 @@
+.m{
+    margin-top: 125px;
+}
+
+.image{
+
+    max-width: 350px;
+    height: 650px;
+}
+
+.movie-info-h1{
+
+    font-weight: bold;
+    font-size: 80px;
+    text-shadow: 2px 2px 4px #0a0a0a;
+    
+}
+
+.ma-r{
+
+    margin: 0;
+    padding: 0;
+}
+
